@@ -1,0 +1,24 @@
+img {
+	width: 100%;
+}
+
+a.link {
+	margin: 0.5em;
+	display: block;
+}
+
+a.link img {
+	width: 200px;
+}
+
+body {
+	display: block;
+	width: 320px;
+	margin: 0 auto;
+}
+
+section {
+	margin-top: 3em;
+	padding-bottom: 1em;
+	border-bottom: 1px solid #bbb;
+}
