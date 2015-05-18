@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>index.html</string>
+	<string>home/projects/index.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -35,6 +35,20 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>home/projects/index.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>29</integer>
+				<key>line</key>
+				<integer>87</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>65</integer>
+		</dict>
 		<key>index.html</key>
 		<dict>
 			<key>caret</key>
@@ -53,6 +67,7 @@
 	<key>openDocuments</key>
 	<array>
 		<string>index.html</string>
+		<string>home/projects/index.html</string>
 		<string>home/css/style.css</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
