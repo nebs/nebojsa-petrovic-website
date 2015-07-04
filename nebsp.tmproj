@@ -7,6 +7,8 @@
 	<key>documents</key>
 	<array>
 		<dict>
+			<key>expanded</key>
+			<true/>
 			<key>name</key>
 			<string>home</string>
 			<key>regexFolderFilter</key>
@@ -18,7 +20,7 @@
 			<key>filename</key>
 			<string>index.html</string>
 			<key>lastUsed</key>
-			<date>2015-07-03T23:56:54Z</date>
+			<date>2015-07-04T17:02:40Z</date>
 			<key>selected</key>
 			<true/>
 		</dict>
@@ -31,28 +33,43 @@
 	<integer>273</integer>
 	<key>metaData</key>
 	<dict>
+		<key>home/assets/js/main.js</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>24</integer>
+				<key>line</key>
+				<integer>51</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>index.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>39</integer>
+				<integer>109</integer>
 				<key>line</key>
-				<integer>105</integer>
+				<integer>94</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>91</integer>
+			<integer>66</integer>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
 		<string>index.html</string>
+		<string>home/assets/js/main.js</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{-8, 0}, {1630, 1057}}</string>
+	<string>{{0, 0}, {1630, 1057}}</string>
 </dict>
 </plist>
