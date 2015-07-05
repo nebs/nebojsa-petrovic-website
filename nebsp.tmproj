@@ -20,7 +20,7 @@
 			<key>filename</key>
 			<string>index.html</string>
 			<key>lastUsed</key>
-			<date>2015-07-04T17:02:40Z</date>
+			<date>2015-07-05T15:13:03Z</date>
 			<key>selected</key>
 			<true/>
 		</dict>
@@ -33,43 +33,43 @@
 	<integer>273</integer>
 	<key>metaData</key>
 	<dict>
-		<key>home/assets/js/main.js</key>
+		<key>home/assets/css/main.css</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>24</integer>
+				<integer>6</integer>
 				<key>line</key>
-				<integer>51</integer>
+				<integer>2925</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>2891</integer>
 		</dict>
 		<key>index.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>109</integer>
+				<integer>50</integer>
 				<key>line</key>
-				<integer>94</integer>
+				<integer>35</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>66</integer>
+			<integer>16</integer>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
 		<string>index.html</string>
-		<string>home/assets/js/main.js</string>
+		<string>home/assets/css/main.css</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{0, 0}, {1630, 1057}}</string>
+	<string>{{10, 0}, {990, 777}}</string>
 </dict>
 </plist>
